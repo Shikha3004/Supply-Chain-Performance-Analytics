@@ -126,3 +126,17 @@ This structured modeling enables efficient KPI calculation, advanced DAX measure
 ✅ KPI Analysis Completed
 
 ✅ Portfolio Ready
+
+## 📂 Project Files
+
+### Power BI Dashboard (.pbix)
+
+🔗 Download PBIX File:
+
+https://drive.google.com/file/d/1cj2w_FDt4u0Hf7m-kF3MCeQdgETBcZWG/view?usp=drive_link
+
+### Dataset
+
+🔗 Download Dataset:
+
+https://drive.google.com/file/d/1Equ19ClLAwrWc1kuSDHl-CWLNNk8Ccz8/view?usp=sharing
